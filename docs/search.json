@@ -12,5 +12,75 @@
     "title": "Projects",
     "section": "",
     "text": "Goal: (1–2 sentences)\nData: (source, size, key variables)\nMethods: (e.g., regression, clustering, classification, visualization)\nKey result: (1–2 sentences)\nLink: GitHub repo / report (optional)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! I’m Jordyn Maurer, a Data Analytics major interested in (your interests here: data visualization, analytics engineering, sports analytics, public health, etc.).\n\n\n\nA few projects I’m proud of\nThe tools I use (R, Python, SQL, Tableau/Power BI, Excel)\nWays to contact me\n\n\n\n\n\n\n\nNote\n\n\n\nTip: This site is built with Quarto. It’s designed to be reproducible and easy to update as your work evolves.\n\n\n\n\n\n\nSkills: R, tidyverse, SQL, data visualization, statistical modeling\n\nInterests: (add 2–3)\n\nCurrently seeking: internships / research / full-time roles (optional)\n\n\n\n\n\nEmail: yourname@example.com\n\nGitHub: https://github.com/yourusername\n\nLinkedIn: (optional)"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Home",
+    "section": "",
+    "text": "A few projects I’m proud of\nThe tools I use (R, Python, SQL, Tableau/Power BI, Excel)\nWays to contact me\n\n\n\n\n\n\n\nNote\n\n\n\nTip: This site is built with Quarto. It’s designed to be reproducible and easy to update as your work evolves."
+  },
+  {
+    "objectID": "index.html#quick-highlights",
+    "href": "index.html#quick-highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Skills: R, tidyverse, SQL, data visualization, statistical modeling\n\nInterests: (add 2–3)\n\nCurrently seeking: internships / research / full-time roles (optional)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: yourname@example.com\n\nGitHub: https://github.com/yourusername\n\nLinkedIn: (optional)"
+  },
+  {
+    "objectID": "about.html#markdown",
+    "href": "about.html#markdown",
+    "title": "About Me",
+    "section": "```markdown",
+    "text": "```markdown"
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "About Me",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: R (tidyverse), (Python), SQL\n\nTools: Git/GitHub, Quarto, Excel, Tableau/Power BI\n\nAnalytics: visualization, modeling, experimental design, reporting"
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About Me",
+    "section": "What I’m working on",
+    "text": "What I’m working on\n\n(Add 1–2 bullets: capstone topic, research, internship project, etc.)"
+  },
+  {
+    "objectID": "about.html#coursework-optional",
+    "href": "about.html#coursework-optional",
+    "title": "About Me",
+    "section": "Coursework (optional)",
+    "text": "Coursework (optional)\n\n(Add 3–5 relevant courses)"
+  },
+  {
+    "objectID": "about.html#resume-optional",
+    "href": "about.html#resume-optional",
+    "title": "About Me",
+    "section": "Resume (optional)",
+    "text": "Resume (optional)\nAdd a link to a PDF resume stored in your repo, or link to LinkedIn."
   }
 ]
