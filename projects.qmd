@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-# Projects
+# Projects - Jordyn Maurer Example DA202
 
 Below are a few projects that showcase my work. For each project, aim for:
 - **What question you asked**

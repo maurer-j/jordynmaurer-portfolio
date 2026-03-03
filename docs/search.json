@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are a few projects that showcase my work. For each project, aim for: - What question you asked - What data you used - What methods you used - What you found - A link to code / report\n\n\n\nGoal: (1–2 sentences)\nData: (source, size, key variables)\nMethods: (e.g., regression, clustering, classification, visualization)\nKey result: (1–2 sentences)\nLink: GitHub repo / report (optional)"
+  },
+  {
+    "objectID": "projects.html#project-1-title-course-personal-internship",
+    "href": "projects.html#project-1-title-course-personal-internship",
+    "title": "Projects",
+    "section": "",
+    "text": "Goal: (1–2 sentences)\nData: (source, size, key variables)\nMethods: (e.g., regression, clustering, classification, visualization)\nKey result: (1–2 sentences)\nLink: GitHub repo / report (optional)"
+  }
+]
