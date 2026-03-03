@@ -2,9 +2,9 @@
 title: "Home"
 ---
 
-# Your Name
+# Jordyn Maurer
 
-Welcome! I’m **Your Name**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
+Welcome! I’m **Jordyn Maurer**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
 
 ## What you’ll find here
 - A few projects I’m proud of
